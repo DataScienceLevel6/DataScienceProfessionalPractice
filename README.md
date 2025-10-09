@@ -3,4 +3,4 @@
 # Public project
 
 
-![Histogram]/histogram-example-2.png
+![Histogram]/histogram-example-2.png 
